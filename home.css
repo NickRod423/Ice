@@ -1,6 +1,13 @@
 body{background:#668cff;
 	font:"Times New Roman";
 	}
+
 #links{background-color: black;
 	color: white;
 } 
+
+a:link {color:white;}
+a:visited {color:;}
+a:hover {color:;}
+a:active {color:;
+
