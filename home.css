@@ -3,8 +3,8 @@ body{background:#668cff;
 	margin: 0;
 	padding: 0;
 	}
-.links{background-color:;
-	color: ;
+.links{background-color: #595959;
+	color: #ffffff;
 	text-align: center;
 	padding: 25px 0 25px 0;
 	
@@ -16,9 +16,9 @@ body{background:#668cff;
 
 .links > li > a {
 	text-decoration: none;
-	color:;
+	color: #ffffff;
 }
 
 .links > li > a:hover {
-	color:;
+	color: #c1c1c1;
 }
