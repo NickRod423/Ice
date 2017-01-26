@@ -22,3 +22,5 @@ body{background:;
 .links > li > a:hover {
 	color: #c1c1c1;
 }
+
+.text {text-align: center;}
