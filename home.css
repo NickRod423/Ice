@@ -23,4 +23,7 @@ body{background:;
 	color: #c1c1c1;
 }
 
-.text {text-align: center;}
+.text {text-align: center;
+	background-color:black;
+	color: white;
+	}
