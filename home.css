@@ -28,3 +28,7 @@ div.text {text-align: center;
 	color: white;
 	display: block;
 	}
+div.center {display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
