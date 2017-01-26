@@ -26,4 +26,5 @@ body{background:;
 .text {text-align: center;
 	background-color:black;
 	color: white;
+	display: block;
 	}
