@@ -19,9 +19,7 @@ body{background:;
 	color: #ffffff;
 }
 
-.links > li > a:hover {
+.links > li > a:hover{
 	color: #c1c1c1;
 }
-
-.title {text-align: center;}
 
