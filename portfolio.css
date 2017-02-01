@@ -6,24 +6,29 @@ body{
     width: 400px
   }
   
-.light{
-
+.light{border-style:;
+       border-width:;
+       border-color:;
   }
 
-.scratch{
-
+.scratch{border-style:;
+       border-width:;
+       border-color:;
   }
 
-.app{
-
+.app{border-style:;
+       border-width:;
+       border-color:;
   }
 
-.khan{
-
+.khan{border-style:;
+       border-width:;
+       border-color:;
   }
 
-.notepad{
-
+.notepad{border-style:;
+       border-width:;
+       border-color:;
   }
 
 .main{padding: 20px;}
