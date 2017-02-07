@@ -34,3 +34,11 @@ body{
 .main{text-align:center;
      padding-bottom: 25px;
 }
+
+.links{background-color:;
+       color:;
+       text-align: center;
+       padding:;}
+.links > li {
+      display: inline-block;
+      padding:;}
