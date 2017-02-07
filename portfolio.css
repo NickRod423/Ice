@@ -38,7 +38,10 @@ body{
 .links{background-color:;
        color:;
        text-align: center;
-       padding:;}
+       padding: 25px 0 25px 0;}
+
 .links > li {
       display: inline-block;
-      padding:;}
+      padding: 0 25px 0 25px;}
+
+
