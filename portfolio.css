@@ -32,12 +32,15 @@
 }
 
 .links{background-color:#ff944d;
-       color:;
+       color:#ffffff;
        text-align: center;
        padding: 25px 0 25px 0;}
 
 .links > li {
       display: inline-block;
       padding: 0 25px 0 25px;}
+.links > li > a {
+        color:#ffffff;
+    }
 
 
