@@ -31,7 +31,7 @@
      padding-bottom: 25px;
 }
 
-.links{background-color:#ff944d;
+.links{background-color:#333333;
        color:#000000;
        text-align: center;
        padding: 25px 0 25px 0;}
@@ -42,7 +42,7 @@
 .links > li > a {
         color:#000000;
     }
-.LB{background-color:#4dc3ff;}
+.LB{background-color:#bfbfbf;}
 
 .S{background-color:#ffd633;}
 
