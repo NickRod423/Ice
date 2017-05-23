@@ -1,9 +1,10 @@
-.PF{color: white}
+.PF{color: white;}
 .pic{height: 640px;
     width: 640px
   }
 
-.internal{color: white}
+.internal{color:white;}
+.internal > p > a {color: white;}
   
 .light{border-style:;
        border-width:;
