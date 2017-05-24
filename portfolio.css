@@ -2,6 +2,8 @@
 .pic{height: 640px;
     width: 640px
   }
+.text{background-color:white;
+    border: 5px double black ;}
 
 .internal{color:white;}
 .internal > p > a {color: white;}
