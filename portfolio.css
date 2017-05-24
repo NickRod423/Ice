@@ -4,7 +4,7 @@
   }
 .text{background-color:white;
     border: 5px double black ;
-    display: block;}
+    padding: 15px;}
 
 .internal{color:white;}
 .internal > p > a {color: white;}
