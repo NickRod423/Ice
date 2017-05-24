@@ -3,7 +3,9 @@
     width: 640px
   }
 .text{background-color:white;
-    border: 5px double black ;}
+    border: 5px double black ;
+    width: 100px;
+    width: 50px;}
 
 .internal{color:white;}
 .internal > p > a {color: white;}
