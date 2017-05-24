@@ -4,9 +4,6 @@
   }
 .text{background-color:white;
     border: 5px double black ;
-    width: 800px;
-    height: 100px;
-    text-align:center;
     display: inline-block;}
 
 .internal{color:white;}
