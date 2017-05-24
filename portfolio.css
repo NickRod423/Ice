@@ -8,7 +8,8 @@
     height: 50%;
     text-align: justify;
 display: block;
-margin:auto;}
+margin:auto;
+padding: 15px;}
 
 .internal{color:white;}
 .internal > p > a {color: white;}
