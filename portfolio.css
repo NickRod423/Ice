@@ -3,7 +3,7 @@
     width: 640px
   }
 .text{background-color:white;
-    border: 5px double black ;
+    border: 5px solid black ;
     width: 50%;
     height: 50%;
     text-align: center;
