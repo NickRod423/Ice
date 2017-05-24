@@ -4,8 +4,9 @@
   }
 .text{background-color:white;
     border: 5px double black ;
-    width: 300px;
-    height: 100px;}
+    width: 800px;
+    height: 100px;
+    text-align:center;}
 
 .internal{color:white;}
 .internal > p > a {color: white;}
