@@ -6,7 +6,8 @@
     border: 5px double black ;
     width: 50%;
     height: 50%;
-    text-align: center;}
+    text-align: center;
+display: block;}
 
 .internal{color:white;}
 .internal > p > a {color: white;}
