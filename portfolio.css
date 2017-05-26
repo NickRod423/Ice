@@ -14,29 +14,15 @@ padding: 15px;}
 .internal{color:white;}
 .internal > p > a {color: white;}
   
-.light{border-style:;
-       border-width:;
-       border-color:;
-  }
+.light{border: 7px inset gray;}
 
-.scratch{border-style:;
-       border-width:;
-       border-color:;
-  }
+.scratch{border: 7px outset orange;}
 
-.app{border-style:;
-       border-width:;
-       border-color:;
-  }
+.app{border-style: 7px inset darkgreen;}
 
-.khan{border-style:;
-       border-width:;
-       border-color:;
-  }
+.khan{border: 7px outset darkblue;}
 
-.notepad{border-style:;
-       border-width:;
-       border-color:;
+.notepad{border: 7px inset darkpurple;
   }
 
 .main{text-align:center;
