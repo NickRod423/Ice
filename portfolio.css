@@ -25,6 +25,14 @@ padding: 15px;}
 .notepad{border: 7px inset purple;
   }
 
+.github{border:7px outset #ff4d4d;}
+
+.code{border:7px inset #ffb366;}
+
+.canopy{border:7px outset #4d4d33;}
+
+.rel{border:7px inset black;}
+
 .main{text-align:center;
      padding-bottom: 25px;
 }
